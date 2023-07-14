@@ -1,0 +1,24 @@
+I,Juan,Perez,M-W 09:00 to 11:00 am
+
+I,Mary,Morgan,M-W 04:00 to 06:00 pm
+
+I,Dorothy,Duran,T-Th 02:00 to 04:00 pm
+
+C,COP3804,3,Juan,Perez
+
+C,CGS1920,1,Mary,Morgan
+
+C,ENC1102,3,Dorothy,Duran
+
+C,COP4610,3,Dorothy,Duran
+
+C,MAC1105,1,Juan,Perez
+
+C,COP2250,3,Mary,Morgan
+
+C,MAD3512,3,Juan,Perez
+
+S,John,Smith,1,08/16/2016,Information Technology,COP3804:A#CGS1920:B#ENC1102:C
+D,Bob,Doe,2,01/12/2017,Biology,COP2250:B#ENC1102:A#MAC1105:B,Coral Park,12
+
+T,Robert,Brown,3,05/25/2016,Computer Science,MAD3512:B#COP3804:B#COP4610:D#ENC1102:A,Miami Dade College
